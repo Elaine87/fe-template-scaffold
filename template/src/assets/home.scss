@@ -1,0 +1,23 @@
+
+.demo{
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  background: green;
+  border: 10px solid green;
+  border-radius: 2px;
+  .img__placeholder{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+  }
+  &:after{
+    display: block;
+    content: "者手里是内容";
+    width: 100px;
+    height: 100px;
+  }
+}
+
+
+

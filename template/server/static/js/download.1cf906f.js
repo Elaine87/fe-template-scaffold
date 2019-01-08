@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{18:function(o,n){},5:function(o,n,i){"use strict";i.r(n),i(13),i(18),i(1),i(2);var t=i(3);window.onload=function(){t("400509",{})},$("#downloadBtn").click(function(){t("400510",{}),setTimeout(function(){window.location.href="http://api.zhidaohulian.com/carlife/static/download/download.html"},500)})}},[[5,0,2,1]]]);
+//# sourceMappingURL=download.1cf906f.js.map

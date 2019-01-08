@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],[function(o,n,i){},function(o,n){var i="/api";o.exports={APIPRIFIX:i,BASEURL:"//api.zhidaohulian.com",api:{login:i+"/login/account",hello:"/repos/hello"}}}]]);

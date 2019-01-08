@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/rules.0950901.js","sources":["webpack:///./src/pages/commendPrize/rules/rules.js"],"sourcesContent":["import 'Assets/css/base.scss';\nimport './rules.scss';\nimport 'Lib/vendors/_flexible';\n"],"mappings":"AAAA","sourceRoot":""}

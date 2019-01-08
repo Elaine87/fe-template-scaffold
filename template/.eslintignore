@@ -1,0 +1,11 @@
+/node_modules/*
+/bower_components/*
+/packages/*
+/temp/*
+/dist/*
+/dest/*
+/build/*
+.vscode
+
+
+

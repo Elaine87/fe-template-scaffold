@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/phone.0950901.js","sources":["webpack:///./config/project.config.js"],"sourcesContent":["module.exports = {\n  projectName: 'commendPrize',\n  openPage: 'index.html',\n  isHaveSpecialConfig: false\n};\n"],"mappings":"AAAA","sourceRoot":""}
